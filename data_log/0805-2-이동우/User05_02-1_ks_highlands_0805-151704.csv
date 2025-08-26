@@ -1,0 +1,5 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 1331, 00:00:01.331,HWK_magma,1318,538
+1, 3330, 00:00:03.330,HWK_magma,1318,538
+2, 3908, 00:00:03.908,HWK_magma,1318,538
+3, 5741, 00:00:05.741,gnbL_BTN_magma,1132,664

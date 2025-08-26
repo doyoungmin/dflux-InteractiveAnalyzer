@@ -1,0 +1,12 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 19175, 00:00:19.175,magma_SPIRIT_BTN_Launch Control,1477,643
+1, 30018, 00:00:30.018,magma_SPIRIT_BTN_Settings,1451,767
+2, 32982, 00:00:32.982,magma_SPIRIT_BTN_Active Sound Design,1454,474
+3, 35375, 00:00:35.375,magma_AREA,1295,487
+4, 40014, 00:00:40.014,gnbL_BTN_magma,1078,676
+5, 41198, 00:00:41.198,gnbL_BTN_magma,1091,667
+6, 42951, 00:00:42.951,magma_AREA,1367,78
+7, 43791, 00:00:43.791,magma_BTN_back,1253,156
+8, 51124, 00:00:51.124,magma_TAB_extream,1429,157
+9, 54268, 00:00:54.268,magma_EXTREAM_BTN_Battery Conditioning,1475,477
+10, 55355, 00:00:55.355,magma_EXTREAM_BTN_Launch Control,1444,592

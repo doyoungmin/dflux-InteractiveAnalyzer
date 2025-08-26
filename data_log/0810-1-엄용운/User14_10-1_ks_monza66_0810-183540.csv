@@ -1,0 +1,14 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 551, 00:00:00.551,gnbL_BTN_magma,1115,665
+1, 1550, 00:00:01.550,gnbL_BTN_magma,1103,700
+2, 9477, 00:00:09.477,magma_SPIRIT_BTN_Launch Control,1430,655
+3, 12875, 00:00:12.875,magma_SPIRIT_BTN_Settings,1426,772
+4, 20536, 00:00:20.536,gnbL_BTN_magma,1103,670
+5, 21736, 00:00:21.736,gnbL_BTN_magma,1114,673
+6, 23318, 00:00:23.318,magma_BTN_back,1262,166
+7, 25799, 00:00:25.799,magma_TAB_extream,1432,172
+8, 27698, 00:00:27.698,magma_EXTREAM_BTN_Drag Race,1970,659
+9, 30813, 00:00:30.813,magma_TAB_extream,1442,208
+10, 33127, 00:00:33.127,magma_EXTREAM_BTN_Battery Conditioning,1417,502
+11, 36858, 00:00:36.858,magma_EXTREAM_BTN_Launch Control,1423,625
+12, 39340, 00:00:39.340,magma_EXTREAM_BTN_Drag Race,1970,664

@@ -1,0 +1,7 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 23556, 00:00:23.556,magma_TAB_extream,1447,166
+1, 26777, 00:00:26.777,magma_TAB_spirit,1298,174
+2, 28036, 00:00:28.036,magma_SPIRIT_BTN_Vitual Gear Shift,1529,556
+3, 32715, 00:00:32.715,magma_TAB_extream,1429,168
+4, 36017, 00:00:36.017,magma_EXTREAM_BTN_Track Race,2119,459
+5, 44609, 00:00:44.609,magma_EXTREAM_TRACK_BTN_Start,1627,709

@@ -1,0 +1,10 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 7227, 00:00:07.227,magma_TAB_extream,1427,202
+1, 7916, 00:00:07.916,magma_TAB_extream,1496,208
+2, 9209, 00:00:09.209,magma_EXTREAM_BTN_Launch Control,1472,625
+3, 9758, 00:00:09.758,magma_EXTREAM_BTN_Battery Conditioning,1483,493
+4, 11357, 00:00:11.357,magma_EXTREAM_BTN_Records,1322,740
+5, 12339, 00:00:12.339,magma_EXTREAM_BTN_Records,1343,740
+6, 12526, 00:00:12.526,magma_EXTREAM_BTN_Records,1330,769
+7, 12683, 00:00:12.683,magma_EXTREAM_BTN_Records,1331,746
+8, 13790, 00:00:13.790,magma_EXTREAM_BTN_Drag Race,2077,667

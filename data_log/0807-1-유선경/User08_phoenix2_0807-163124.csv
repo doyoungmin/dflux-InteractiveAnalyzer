@@ -1,0 +1,6 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+1, 68370, 00:01:08.370,HWK_magma,1658,692
+2, 69993, 00:01:09.993,HWK_magma,1658,692
+3, 71426, 00:01:11.426,POPUP_MAGMA,1994,745
+4, 73028, 00:01:13.028,magma_TAB_extream,1411,175
+5, 73695, 00:01:13.695,magma_EXTREAM_BTN_Track Race,1969,457

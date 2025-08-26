@@ -1,0 +1,6 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 1821, 00:00:01.821,HWK_magma,2061,739
+1, 3059, 00:00:03.059,POPUP_MAGMA,2034,748
+2, 4348, 00:00:04.348,magma_TAB_extream,1389,153
+3, 7118, 00:00:07.118,magma_EXTREAM_BTN_Battery Conditioning,1365,472
+4, 9034, 00:00:09.034,magma_EXTREAM_BTN_Launch Control,1370,600

@@ -1,0 +1,4 @@
+Count,Time(ms),Time(HH:mm:ss.SSS),Layer Name,TouchX,TouchY
+0, 6088, 00:00:06.088,magma_TAB_extream,1436,178
+1, 6598, 00:00:06.598,magma_AREA,1336,291
+2, 10018, 00:00:10.018,magma_EXTREAM_BTN_Records,1326,730
